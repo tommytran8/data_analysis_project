@@ -1,4 +1,4 @@
-# Data_Science_Project
+# data analysis project
 
 My final project for my data science class that highlights my ability to use
 skills such as data visualization, data cleaning, data analysis on a given
